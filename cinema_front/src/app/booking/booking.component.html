@@ -1,0 +1,94 @@
+<div class="booking-page dark-page">
+    
+  <div class="container py-5 text-white">
+    @if (loading()) {
+      <div class="text-center">جاري تحميل البيانات...</div>
+    } @else if (currentMovie()) {
+      <h1 class="text-center mb-5">{{ currentMovie()?.title }}</h1>
+      <div class="row">
+        
+        <div class="col-lg-8">
+            
+          <div class="screen mb-5 text-center text-info">SCREEN</div>
+          <div class="seats-grid">
+            @for (row of rows; track row) {
+              <div class="d-flex justify-content-center mb-2">
+                <span class="me-3">{{ row }}</span>
+                @for (s of seats(); track s.id) {
+                  @if (s.row === row) {
+                 <div class="seat" 
+     [class.occupied]="s.occupied" 
+     [class.selected]="selectedSeat()?.id === s.id"
+     [class.gold]="s.category === 'GOLD'" 
+     [class.platinum]="s.category === 'PLATINUM'" 
+     (click)="selectSeat(s)">
+  
+  @if (s.occupied) {
+    <i class="bi bi-x-lg reserved-icon"></i>
+  } @else {
+    {{ s.num }}
+  }
+</div>
+                  }
+                }
+              </div>
+            }
+          </div>
+          <div class="seats-legend d-flex flex-wrap justify-content-center gap-4 mt-5 p-3 bg-dark rounded border border-secondary">
+  
+  <div class="legend-item d-flex align-items-center">
+    <div class="seat-sample standard"></div>
+    <span>متاح (عادي)</span>
+  </div>
+
+  <div class="legend-item d-flex align-items-center">
+    <div class="seat-sample gold"></div>
+    <span>جولد (1.5x)</span>
+  </div>
+
+  <div class="legend-item d-flex align-items-center">
+    <div class="seat-sample platinum"></div>
+    <span>بلاتينيوم (2x)</span>
+  </div>
+
+  <div class="legend-item d-flex align-items-center">
+    <div class="seat-sample occupied-sample">
+      <i class="bi bi-x-lg"></i>
+    </div>
+    <span>محجوز مسبقاً</span>
+  </div>
+
+  <div class="legend-item d-flex align-items-center">
+    <div class="seat-sample selected"></div>
+    <span>اختيارك الحالي</span>
+  </div>
+
+</div>
+        </div>
+        <div class="col-lg-4">
+              <div class="d-flex justify-content-end">
+            <button class="btn btn-outline-danger btn-sm mt-2 me-2"
+              (click)="onLogout()">
+              تسجيل الخروج
+            </button>
+          </div>
+          <div class="booking-summary p-4 bg-dark border border-secondary rounded">
+            <h4>Booking summary</h4>
+            @if (selectedSeat()) {
+             <p>  Hall Number : {{ currentMovie()?.hallNumber }}</p>
+              <p> Seat : {{ selectedSeat()?.row }}{{ selectedSeat()?.num }}</p>
+              <p> Category : {{ selectedSeat()?.category }}</p>
+
+            <hr class="border-secondary">
+            <div class="total-price d-flex justify-content-between align-items-center mt-3">
+      <span>Total Price : </span>
+      <span class="fs-4 text-info">{{ calculateTotalPrice() }} EGP</span>
+    </div>
+              <button class="btn book-btn w-100 mt-3 py-2" (click)="confirmBooking()">تأكيد الحجز</button>
+            }
+          </div>
+        </div>
+      </div>
+    }
+  </div>
+</div>

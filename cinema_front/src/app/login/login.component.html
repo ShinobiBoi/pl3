@@ -1,0 +1,67 @@
+<div class="login-page-bg">
+  <div class="container d-flex justify-content-center align-items-center vh-100">
+    <div class="login-card p-4 p-md-5 shadow-lg text-white">
+      
+      <div class="text-center mb-4">
+        <h2 class="mb-1">تسجيل الدخول</h2>
+      </div>
+
+      @if (errorMessage()) {
+        <div class="alert alert-danger text-center" role="alert">
+          {{ errorMessage() }}
+        </div>
+      }
+      
+      <form (ngSubmit)="onLogin()">
+        
+        <div class="mb-3">
+          <label for="username" class="form-label">اسم المستخدم</label>
+          <input 
+            type="text" 
+            class="form-control dark-input" 
+            id="username" 
+            name="username" 
+            [(ngModel)]="loginData.username" 
+            required
+          >
+        </div>
+
+        
+
+        <div class="mb-4">
+          <label for="password" class="form-label">كلمة المرور</label>
+          <input 
+            type="password" 
+            class="form-control dark-input" 
+            id="password" 
+            name="password" 
+            [(ngModel)]="loginData.password" 
+            required
+          >
+        </div>
+        
+        <button 
+          type="submit" 
+          class="btn btn-info w-100 login-btn" 
+          [disabled]="loading()">
+          
+          @if (loading()) {
+            <span class="spinner-border spinner-border-sm me-2" role="status" aria-hidden="true"></span>
+            جاري الدخول...
+          } @else {
+            تسجيل الدخول
+          }
+          
+        </button>
+      </form>
+      
+      <div class="mt-4 text-center">
+        <p class="mb-0">
+          ليس لديك حساب؟ 
+          <a routerLink="/register" class="text-info register-link">سجل الآن</a>
+        </p>
+      </div>
+      
+    </div>
+  </div>
+</div>

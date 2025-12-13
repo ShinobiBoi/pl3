@@ -1,0 +1,120 @@
+
+.booking-page { 
+  background: #0b0b0b; 
+  min-height: 100vh; 
+}
+
+.screen { 
+  border-top: 3px solid #00b6ff; 
+  border-radius: 50% 50% 0 0; 
+  padding-top: 10px; 
+}
+
+.seat {
+  width: 32px; 
+  height: 32px; 
+  background: #333; 
+  margin: 4px; 
+  cursor: pointer; 
+  display: flex; 
+  align-items: center; 
+  justify-content: center; 
+  border-radius: 4px; 
+  font-size: 0.75rem;
+  color: #fff;
+  transition: all 0.2s ease;
+}
+
+.seat.gold { background: #ffd700; color: #000; }
+.seat.platinum { background: #1b7ced; }
+
+.seat.selected { 
+  background: #00b6ff !important; 
+  box-shadow: 0 0 10px #00b6ff; 
+  transform: scale(1.1);
+}
+
+.seat.occupied {
+  background-color: rgba(255, 255, 255, 0.86) !important;  
+  border: 1px dashed rgba(255, 255, 255, 0.2) !important;
+  cursor: not-allowed;
+}
+
+.reserved-icon {
+  display: block;
+  font-size: 1.5rem;
+  font-weight: bold;
+  color: #f80707;
+  pointer-events: none;
+}
+.seat.occupied span {
+  display: none;
+}
+
+.book-btn { 
+  background: #00797C; 
+  border: none; 
+  font-weight: bold; 
+  position: relative; 
+  overflow: hidden; 
+  color: white;
+}
+
+.book-btn::before, .book-btn::after { 
+  content: ''; 
+  position: absolute; 
+  top: 50%; 
+  width: 14px; 
+  height: 14px; 
+  background: #0b0b0b; 
+  border-radius: 50%; 
+  transform: translateY(-50%); 
+}
+
+.book-btn::before { left: -7px; } 
+.book-btn::after { right: -7px; }
+
+
+
+
+
+
+
+.seats-legend {
+  max-width: 600px;
+  margin-left: auto;
+  margin-right: auto;
+  font-size: 0.85rem;
+}
+
+.legend-item {
+  gap: 10px;
+}
+
+.seat-sample {
+  width: 20px;
+  height: 20px;
+  border-radius: 3px;
+}
+
+.seat-sample.standard { background: #333; }
+.seat-sample.gold { background: #ffd700; }
+.seat-sample.platinum { background: #1b7ced; }
+.seat-sample.selected { background: #00b6ff; box-shadow: 0 0 5px #00b6ff; }
+
+.seat-sample.occupied-sample {
+  background: rgba(255, 255, 255, 0.86);
+  border: 1px dashed rgba(255, 255, 255, 0.2);
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  color: #f80707;
+  font-size: 0.6rem;
+}
+
+
+.total-price {
+  font-weight: bold;
+  border-top: 1px solid rgba(255, 255, 255, 0.1);
+  padding-top: 10px;
+}
