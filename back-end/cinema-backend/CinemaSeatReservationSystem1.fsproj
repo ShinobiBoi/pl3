@@ -1,0 +1,25 @@
+<Project Sdk="Microsoft.NET.Sdk.Web">
+
+	<PropertyGroup>
+		<TargetFramework>net8.0</TargetFramework>
+		<!-- هذا السطر يمنع إنشاء ملف exe الذي يسبب مشكلة الصلاحيات -->
+		<UseAppHost>false</UseAppHost>
+	</PropertyGroup>
+
+	<ItemGroup>
+		<!-- ده الترتيب الصح ومن غير تكرار -->
+		<Compile Include="Domain.fs" />
+		<Compile Include="Database.fs" />
+		<Compile Include="Controllers\AuthController.fs" />
+		<Compile Include="Controllers\AdminController.fs" />
+		<Compile Include="Controllers\BookingController.fs" />
+		<Compile Include="Program.fs" />
+	</ItemGroup>
+
+	<ItemGroup>
+		<PackageReference Include="Dapper" Version="2.1.35" />
+		<PackageReference Include="Microsoft.Data.SqlClient" Version="5.2.2" />
+		<PackageReference Include="Swashbuckle.AspNetCore" Version="6.5.0" />
+	</ItemGroup>
+
+</Project>
