@@ -1,0 +1,2288 @@
+{
+  "Version": 1,
+  "Hash": "NQnG2rB116wYWqDElv+rDuSdVrmSzNceq30KSr+tTYQ=",
+  "Source": "CinemaSeatReservationSystem1",
+  "BasePath": "_content/CinemaSeatReservationSystem1",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "CinemaSeatReservationSystem1\\wwwroot",
+      "Source": "CinemaSeatReservationSystem1",
+      "ContentRoot": "C:\\Users\\Admin\\Desktop\\project pl-3\\cinema-backend\\wwwroot\\",
+      "BasePath": "_content/CinemaSeatReservationSystem1",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "C:\\Users\\Admin\\Desktop\\project pl-3\\cinema-backend\\wwwroot\\images\\00febce8-12ef-4d83-b3d0-674543475033.jpg",
+      "SourceId": "CinemaSeatReservationSystem1",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Admin\\Desktop\\project pl-3\\cinema-backend\\wwwroot\\",
+      "BasePath": "_content/CinemaSeatReservationSystem1",
+      "RelativePath": "images/00febce8-12ef-4d83-b3d0-674543475033#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "xf844evbb6",
+      "Integrity": "Q9A+FakYSaSz1A40fFkquR1cJVZKEs5OoKCv5RiNl7E=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\00febce8-12ef-4d83-b3d0-674543475033.jpg"
+    },
+    {
+      "Identity": "C:\\Users\\Admin\\Desktop\\project pl-3\\cinema-backend\\wwwroot\\images\\1236028b-fa2c-4c32-b1f0-4eeee7c1cddf.png",
+      "SourceId": "CinemaSeatReservationSystem1",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Admin\\Desktop\\project pl-3\\cinema-backend\\wwwroot\\",
+      "BasePath": "_content/CinemaSeatReservationSystem1",
+      "RelativePath": "images/1236028b-fa2c-4c32-b1f0-4eeee7c1cddf#[.{fingerprint}]?.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "tqvzv4cvtv",
+      "Integrity": "dRqW4f83OR17nrvnB7Z+3xVGTIVEwAIL/7TS01nt3gs=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\1236028b-fa2c-4c32-b1f0-4eeee7c1cddf.png"
+    },
+    {
+      "Identity": "C:\\Users\\Admin\\Desktop\\project pl-3\\cinema-backend\\wwwroot\\images\\125a5395-ffd0-476e-b735-01fe6a141018.png",
+      "SourceId": "CinemaSeatReservationSystem1",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Admin\\Desktop\\project pl-3\\cinema-backend\\wwwroot\\",
+      "BasePath": "_content/CinemaSeatReservationSystem1",
+      "RelativePath": "images/125a5395-ffd0-476e-b735-01fe6a141018#[.{fingerprint}]?.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "0zvke8f7q7",
+      "Integrity": "JIMZEvpEy1afW9LPyZZRRYPI+dB5cenzyVCSjahNA+M=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\125a5395-ffd0-476e-b735-01fe6a141018.png"
+    },
+    {
+      "Identity": "C:\\Users\\Admin\\Desktop\\project pl-3\\cinema-backend\\wwwroot\\images\\2372844a-8c6b-4bb8-90b6-66b23175ba4c.jpeg",
+      "SourceId": "CinemaSeatReservationSystem1",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Admin\\Desktop\\project pl-3\\cinema-backend\\wwwroot\\",
+      "BasePath": "_content/CinemaSeatReservationSystem1",
+      "RelativePath": "images/2372844a-8c6b-4bb8-90b6-66b23175ba4c#[.{fingerprint}]?.jpeg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "ehxpp32v67",
+      "Integrity": "wvpcRnBbeGktxl2MhDw3txXJfDjUz5BqLF03UARg/5o=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\2372844a-8c6b-4bb8-90b6-66b23175ba4c.jpeg"
+    },
+    {
+      "Identity": "C:\\Users\\Admin\\Desktop\\project pl-3\\cinema-backend\\wwwroot\\images\\2cac0ba5-f7ef-42dd-b815-d502d93fdedf.jpg",
+      "SourceId": "CinemaSeatReservationSystem1",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Admin\\Desktop\\project pl-3\\cinema-backend\\wwwroot\\",
+      "BasePath": "_content/CinemaSeatReservationSystem1",
+      "RelativePath": "images/2cac0ba5-f7ef-42dd-b815-d502d93fdedf#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "6k7prb78l9",
+      "Integrity": "epZQrB46o0Tu/ebxX79xjEUwWQyXsRVuuOtU4x66Fs8=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\2cac0ba5-f7ef-42dd-b815-d502d93fdedf.jpg"
+    },
+    {
+      "Identity": "C:\\Users\\Admin\\Desktop\\project pl-3\\cinema-backend\\wwwroot\\images\\43091a22-704c-448c-8b18-7c1965e306ae.jpeg",
+      "SourceId": "CinemaSeatReservationSystem1",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Admin\\Desktop\\project pl-3\\cinema-backend\\wwwroot\\",
+      "BasePath": "_content/CinemaSeatReservationSystem1",
+      "RelativePath": "images/43091a22-704c-448c-8b18-7c1965e306ae#[.{fingerprint}]?.jpeg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "hpk8gg2m2v",
+      "Integrity": "K/W/uxt3TBb6egd9uw3dGVNkbBvm/Uuu7T7bVjruUTs=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\43091a22-704c-448c-8b18-7c1965e306ae.jpeg"
+    },
+    {
+      "Identity": "C:\\Users\\Admin\\Desktop\\project pl-3\\cinema-backend\\wwwroot\\images\\4da9b5cc-6f6a-4182-a3f3-0887cce05b0f.jpg",
+      "SourceId": "CinemaSeatReservationSystem1",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Admin\\Desktop\\project pl-3\\cinema-backend\\wwwroot\\",
+      "BasePath": "_content/CinemaSeatReservationSystem1",
+      "RelativePath": "images/4da9b5cc-6f6a-4182-a3f3-0887cce05b0f#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "gbna9il124",
+      "Integrity": "dKrla4fT8giTd0r6wfNzppNg0ZDVgheITD/DgU9GGkQ=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\4da9b5cc-6f6a-4182-a3f3-0887cce05b0f.jpg"
+    },
+    {
+      "Identity": "C:\\Users\\Admin\\Desktop\\project pl-3\\cinema-backend\\wwwroot\\images\\54fe28ba-43ba-4cb4-9c6c-36f16bae150a.PNG",
+      "SourceId": "CinemaSeatReservationSystem1",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Admin\\Desktop\\project pl-3\\cinema-backend\\wwwroot\\",
+      "BasePath": "_content/CinemaSeatReservationSystem1",
+      "RelativePath": "images/54fe28ba-43ba-4cb4-9c6c-36f16bae150a#[.{fingerprint}]?.PNG",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "qrkbv4hhml",
+      "Integrity": "GmMW/l4lFaLuV8TjXAzpcx3wFiTSpHii0ADlgXmXMKU=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\54fe28ba-43ba-4cb4-9c6c-36f16bae150a.PNG"
+    },
+    {
+      "Identity": "C:\\Users\\Admin\\Desktop\\project pl-3\\cinema-backend\\wwwroot\\images\\5834857c-86ef-42cd-b535-fb4ca238e1b3.jpg",
+      "SourceId": "CinemaSeatReservationSystem1",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Admin\\Desktop\\project pl-3\\cinema-backend\\wwwroot\\",
+      "BasePath": "_content/CinemaSeatReservationSystem1",
+      "RelativePath": "images/5834857c-86ef-42cd-b535-fb4ca238e1b3#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "73jr8rwgsq",
+      "Integrity": "nRJGp+syLfz+62T8xTkb94YBlGZjWEtVL9/fsDAC+LE=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\5834857c-86ef-42cd-b535-fb4ca238e1b3.jpg"
+    },
+    {
+      "Identity": "C:\\Users\\Admin\\Desktop\\project pl-3\\cinema-backend\\wwwroot\\images\\656a3517-9c0b-4433-91da-a3eb1747d592.jpg",
+      "SourceId": "CinemaSeatReservationSystem1",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Admin\\Desktop\\project pl-3\\cinema-backend\\wwwroot\\",
+      "BasePath": "_content/CinemaSeatReservationSystem1",
+      "RelativePath": "images/656a3517-9c0b-4433-91da-a3eb1747d592#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "q43b95zlfn",
+      "Integrity": "mjGJ/joD91kWM49OAVkiqIKLmEPOUGY4pCAT6wSJnLU=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\656a3517-9c0b-4433-91da-a3eb1747d592.jpg"
+    },
+    {
+      "Identity": "C:\\Users\\Admin\\Desktop\\project pl-3\\cinema-backend\\wwwroot\\images\\7b74a7a9-ab4f-4e76-998c-9cc553694caa.jpeg",
+      "SourceId": "CinemaSeatReservationSystem1",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Admin\\Desktop\\project pl-3\\cinema-backend\\wwwroot\\",
+      "BasePath": "_content/CinemaSeatReservationSystem1",
+      "RelativePath": "images/7b74a7a9-ab4f-4e76-998c-9cc553694caa#[.{fingerprint}]?.jpeg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "hpk8gg2m2v",
+      "Integrity": "K/W/uxt3TBb6egd9uw3dGVNkbBvm/Uuu7T7bVjruUTs=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\7b74a7a9-ab4f-4e76-998c-9cc553694caa.jpeg"
+    },
+    {
+      "Identity": "C:\\Users\\Admin\\Desktop\\project pl-3\\cinema-backend\\wwwroot\\images\\7e3b9262-1fac-4fa0-bce5-cc4a87725dfd.jpg",
+      "SourceId": "CinemaSeatReservationSystem1",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Admin\\Desktop\\project pl-3\\cinema-backend\\wwwroot\\",
+      "BasePath": "_content/CinemaSeatReservationSystem1",
+      "RelativePath": "images/7e3b9262-1fac-4fa0-bce5-cc4a87725dfd#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "6k7prb78l9",
+      "Integrity": "epZQrB46o0Tu/ebxX79xjEUwWQyXsRVuuOtU4x66Fs8=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\7e3b9262-1fac-4fa0-bce5-cc4a87725dfd.jpg"
+    },
+    {
+      "Identity": "C:\\Users\\Admin\\Desktop\\project pl-3\\cinema-backend\\wwwroot\\images\\8c27f8f5-649a-42b5-8c1b-4744ff4260ba.jpg",
+      "SourceId": "CinemaSeatReservationSystem1",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Admin\\Desktop\\project pl-3\\cinema-backend\\wwwroot\\",
+      "BasePath": "_content/CinemaSeatReservationSystem1",
+      "RelativePath": "images/8c27f8f5-649a-42b5-8c1b-4744ff4260ba#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "ny271kmwdl",
+      "Integrity": "v9t37p6R9FxjteEoh4VcgFvDg+uurUgSploLfy20+64=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\8c27f8f5-649a-42b5-8c1b-4744ff4260ba.jpg"
+    },
+    {
+      "Identity": "C:\\Users\\Admin\\Desktop\\project pl-3\\cinema-backend\\wwwroot\\images\\8df7f3fe-47f1-4707-9506-6173bb1e0fec.png",
+      "SourceId": "CinemaSeatReservationSystem1",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Admin\\Desktop\\project pl-3\\cinema-backend\\wwwroot\\",
+      "BasePath": "_content/CinemaSeatReservationSystem1",
+      "RelativePath": "images/8df7f3fe-47f1-4707-9506-6173bb1e0fec#[.{fingerprint}]?.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "tqvzv4cvtv",
+      "Integrity": "dRqW4f83OR17nrvnB7Z+3xVGTIVEwAIL/7TS01nt3gs=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\8df7f3fe-47f1-4707-9506-6173bb1e0fec.png"
+    },
+    {
+      "Identity": "C:\\Users\\Admin\\Desktop\\project pl-3\\cinema-backend\\wwwroot\\images\\a2148ef7-5961-454c-8d95-bff744a66371.jpg",
+      "SourceId": "CinemaSeatReservationSystem1",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Admin\\Desktop\\project pl-3\\cinema-backend\\wwwroot\\",
+      "BasePath": "_content/CinemaSeatReservationSystem1",
+      "RelativePath": "images/a2148ef7-5961-454c-8d95-bff744a66371#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "si3eg1f5ek",
+      "Integrity": "VO0lpkR+UcxmeGvUAh3WPl4L3BK/MKlflczNjaxPhuo=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\a2148ef7-5961-454c-8d95-bff744a66371.jpg"
+    },
+    {
+      "Identity": "C:\\Users\\Admin\\Desktop\\project pl-3\\cinema-backend\\wwwroot\\images\\acc17e1d-d028-4eca-bf16-4b7ebbe38dcd.jpeg",
+      "SourceId": "CinemaSeatReservationSystem1",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Admin\\Desktop\\project pl-3\\cinema-backend\\wwwroot\\",
+      "BasePath": "_content/CinemaSeatReservationSystem1",
+      "RelativePath": "images/acc17e1d-d028-4eca-bf16-4b7ebbe38dcd#[.{fingerprint}]?.jpeg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "hpk8gg2m2v",
+      "Integrity": "K/W/uxt3TBb6egd9uw3dGVNkbBvm/Uuu7T7bVjruUTs=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\acc17e1d-d028-4eca-bf16-4b7ebbe38dcd.jpeg"
+    },
+    {
+      "Identity": "C:\\Users\\Admin\\Desktop\\project pl-3\\cinema-backend\\wwwroot\\images\\ae0f9d76-9f44-43b9-b3fc-25334fbc3106.jpeg",
+      "SourceId": "CinemaSeatReservationSystem1",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Admin\\Desktop\\project pl-3\\cinema-backend\\wwwroot\\",
+      "BasePath": "_content/CinemaSeatReservationSystem1",
+      "RelativePath": "images/ae0f9d76-9f44-43b9-b3fc-25334fbc3106#[.{fingerprint}]?.jpeg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "hpk8gg2m2v",
+      "Integrity": "K/W/uxt3TBb6egd9uw3dGVNkbBvm/Uuu7T7bVjruUTs=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\ae0f9d76-9f44-43b9-b3fc-25334fbc3106.jpeg"
+    },
+    {
+      "Identity": "C:\\Users\\Admin\\Desktop\\project pl-3\\cinema-backend\\wwwroot\\images\\d34097ed-97d7-4eb4-a02a-40efc82b53d7.jpg",
+      "SourceId": "CinemaSeatReservationSystem1",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Admin\\Desktop\\project pl-3\\cinema-backend\\wwwroot\\",
+      "BasePath": "_content/CinemaSeatReservationSystem1",
+      "RelativePath": "images/d34097ed-97d7-4eb4-a02a-40efc82b53d7#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "qz5lhxq66y",
+      "Integrity": "lga9oyr5Prs67XakwPLI7XMXBUI6Ns7RLFu+knEtL/4=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\d34097ed-97d7-4eb4-a02a-40efc82b53d7.jpg"
+    },
+    {
+      "Identity": "C:\\Users\\Admin\\Desktop\\project pl-3\\cinema-backend\\wwwroot\\images\\e427c07a-7eb9-47af-af81-6164596f51dc.png",
+      "SourceId": "CinemaSeatReservationSystem1",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Admin\\Desktop\\project pl-3\\cinema-backend\\wwwroot\\",
+      "BasePath": "_content/CinemaSeatReservationSystem1",
+      "RelativePath": "images/e427c07a-7eb9-47af-af81-6164596f51dc#[.{fingerprint}]?.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "tqvzv4cvtv",
+      "Integrity": "dRqW4f83OR17nrvnB7Z+3xVGTIVEwAIL/7TS01nt3gs=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\e427c07a-7eb9-47af-af81-6164596f51dc.png"
+    },
+    {
+      "Identity": "C:\\Users\\Admin\\Desktop\\project pl-3\\cinema-backend\\wwwroot\\images\\event1.jpg",
+      "SourceId": "CinemaSeatReservationSystem1",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Admin\\Desktop\\project pl-3\\cinema-backend\\wwwroot\\",
+      "BasePath": "_content/CinemaSeatReservationSystem1",
+      "RelativePath": "images/event1#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "p0vf2rj7a8",
+      "Integrity": "yciZQ+Y1p1ootqQmHNMVueiCDdyu/PZDkpP7lpmbMkw=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\event1.jpg"
+    },
+    {
+      "Identity": "C:\\Users\\Admin\\Desktop\\project pl-3\\cinema-backend\\wwwroot\\images\\event2.jpg",
+      "SourceId": "CinemaSeatReservationSystem1",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Admin\\Desktop\\project pl-3\\cinema-backend\\wwwroot\\",
+      "BasePath": "_content/CinemaSeatReservationSystem1",
+      "RelativePath": "images/event2#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "211rh47q1k",
+      "Integrity": "9m4e+erlirh/TrEAP2kiegU9Mm7qGSPwu4edpisRWiA=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\event2.jpg"
+    },
+    {
+      "Identity": "C:\\Users\\Admin\\Desktop\\project pl-3\\cinema-backend\\wwwroot\\images\\fa7bea5a-3a78-447d-b5f3-014a258675bc.png",
+      "SourceId": "CinemaSeatReservationSystem1",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Admin\\Desktop\\project pl-3\\cinema-backend\\wwwroot\\",
+      "BasePath": "_content/CinemaSeatReservationSystem1",
+      "RelativePath": "images/fa7bea5a-3a78-447d-b5f3-014a258675bc#[.{fingerprint}]?.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "0zvke8f7q7",
+      "Integrity": "JIMZEvpEy1afW9LPyZZRRYPI+dB5cenzyVCSjahNA+M=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\fa7bea5a-3a78-447d-b5f3-014a258675bc.png"
+    }
+  ],
+  "Endpoints": [
+    {
+      "Route": "images/00febce8-12ef-4d83-b3d0-674543475033.jpg",
+      "AssetFile": "C:\\Users\\Admin\\Desktop\\project pl-3\\cinema-backend\\wwwroot\\images\\00febce8-12ef-4d83-b3d0-674543475033.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "148595"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"Q9A+FakYSaSz1A40fFkquR1cJVZKEs5OoKCv5RiNl7E=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 09 Dec 2025 02:33:09 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-Q9A+FakYSaSz1A40fFkquR1cJVZKEs5OoKCv5RiNl7E="
+        }
+      ]
+    },
+    {
+      "Route": "images/00febce8-12ef-4d83-b3d0-674543475033.xf844evbb6.jpg",
+      "AssetFile": "C:\\Users\\Admin\\Desktop\\project pl-3\\cinema-backend\\wwwroot\\images\\00febce8-12ef-4d83-b3d0-674543475033.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "148595"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"Q9A+FakYSaSz1A40fFkquR1cJVZKEs5OoKCv5RiNl7E=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 09 Dec 2025 02:33:09 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "xf844evbb6"
+        },
+        {
+          "Name": "label",
+          "Value": "images/00febce8-12ef-4d83-b3d0-674543475033.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-Q9A+FakYSaSz1A40fFkquR1cJVZKEs5OoKCv5RiNl7E="
+        }
+      ]
+    },
+    {
+      "Route": "images/1236028b-fa2c-4c32-b1f0-4eeee7c1cddf.png",
+      "AssetFile": "C:\\Users\\Admin\\Desktop\\project pl-3\\cinema-backend\\wwwroot\\images\\1236028b-fa2c-4c32-b1f0-4eeee7c1cddf.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "668177"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"dRqW4f83OR17nrvnB7Z+3xVGTIVEwAIL/7TS01nt3gs=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 09 Dec 2025 01:13:19 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-dRqW4f83OR17nrvnB7Z+3xVGTIVEwAIL/7TS01nt3gs="
+        }
+      ]
+    },
+    {
+      "Route": "images/1236028b-fa2c-4c32-b1f0-4eeee7c1cddf.tqvzv4cvtv.png",
+      "AssetFile": "C:\\Users\\Admin\\Desktop\\project pl-3\\cinema-backend\\wwwroot\\images\\1236028b-fa2c-4c32-b1f0-4eeee7c1cddf.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "668177"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"dRqW4f83OR17nrvnB7Z+3xVGTIVEwAIL/7TS01nt3gs=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 09 Dec 2025 01:13:19 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "tqvzv4cvtv"
+        },
+        {
+          "Name": "label",
+          "Value": "images/1236028b-fa2c-4c32-b1f0-4eeee7c1cddf.png"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-dRqW4f83OR17nrvnB7Z+3xVGTIVEwAIL/7TS01nt3gs="
+        }
+      ]
+    },
+    {
+      "Route": "images/125a5395-ffd0-476e-b735-01fe6a141018.0zvke8f7q7.png",
+      "AssetFile": "C:\\Users\\Admin\\Desktop\\project pl-3\\cinema-backend\\wwwroot\\images\\125a5395-ffd0-476e-b735-01fe6a141018.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "371673"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"JIMZEvpEy1afW9LPyZZRRYPI+dB5cenzyVCSjahNA+M=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 09 Dec 2025 02:25:38 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "0zvke8f7q7"
+        },
+        {
+          "Name": "label",
+          "Value": "images/125a5395-ffd0-476e-b735-01fe6a141018.png"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-JIMZEvpEy1afW9LPyZZRRYPI+dB5cenzyVCSjahNA+M="
+        }
+      ]
+    },
+    {
+      "Route": "images/125a5395-ffd0-476e-b735-01fe6a141018.png",
+      "AssetFile": "C:\\Users\\Admin\\Desktop\\project pl-3\\cinema-backend\\wwwroot\\images\\125a5395-ffd0-476e-b735-01fe6a141018.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "371673"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"JIMZEvpEy1afW9LPyZZRRYPI+dB5cenzyVCSjahNA+M=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 09 Dec 2025 02:25:38 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-JIMZEvpEy1afW9LPyZZRRYPI+dB5cenzyVCSjahNA+M="
+        }
+      ]
+    },
+    {
+      "Route": "images/2372844a-8c6b-4bb8-90b6-66b23175ba4c.ehxpp32v67.jpeg",
+      "AssetFile": "C:\\Users\\Admin\\Desktop\\project pl-3\\cinema-backend\\wwwroot\\images\\2372844a-8c6b-4bb8-90b6-66b23175ba4c.jpeg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "9851"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"wvpcRnBbeGktxl2MhDw3txXJfDjUz5BqLF03UARg/5o=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 09 Dec 2025 02:07:12 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "ehxpp32v67"
+        },
+        {
+          "Name": "label",
+          "Value": "images/2372844a-8c6b-4bb8-90b6-66b23175ba4c.jpeg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-wvpcRnBbeGktxl2MhDw3txXJfDjUz5BqLF03UARg/5o="
+        }
+      ]
+    },
+    {
+      "Route": "images/2372844a-8c6b-4bb8-90b6-66b23175ba4c.jpeg",
+      "AssetFile": "C:\\Users\\Admin\\Desktop\\project pl-3\\cinema-backend\\wwwroot\\images\\2372844a-8c6b-4bb8-90b6-66b23175ba4c.jpeg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "9851"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"wvpcRnBbeGktxl2MhDw3txXJfDjUz5BqLF03UARg/5o=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 09 Dec 2025 02:07:12 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-wvpcRnBbeGktxl2MhDw3txXJfDjUz5BqLF03UARg/5o="
+        }
+      ]
+    },
+    {
+      "Route": "images/2cac0ba5-f7ef-42dd-b815-d502d93fdedf.6k7prb78l9.jpg",
+      "AssetFile": "C:\\Users\\Admin\\Desktop\\project pl-3\\cinema-backend\\wwwroot\\images\\2cac0ba5-f7ef-42dd-b815-d502d93fdedf.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "34414"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"epZQrB46o0Tu/ebxX79xjEUwWQyXsRVuuOtU4x66Fs8=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 09 Dec 2025 01:58:02 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "6k7prb78l9"
+        },
+        {
+          "Name": "label",
+          "Value": "images/2cac0ba5-f7ef-42dd-b815-d502d93fdedf.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-epZQrB46o0Tu/ebxX79xjEUwWQyXsRVuuOtU4x66Fs8="
+        }
+      ]
+    },
+    {
+      "Route": "images/2cac0ba5-f7ef-42dd-b815-d502d93fdedf.jpg",
+      "AssetFile": "C:\\Users\\Admin\\Desktop\\project pl-3\\cinema-backend\\wwwroot\\images\\2cac0ba5-f7ef-42dd-b815-d502d93fdedf.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "34414"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"epZQrB46o0Tu/ebxX79xjEUwWQyXsRVuuOtU4x66Fs8=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 09 Dec 2025 01:58:02 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-epZQrB46o0Tu/ebxX79xjEUwWQyXsRVuuOtU4x66Fs8="
+        }
+      ]
+    },
+    {
+      "Route": "images/43091a22-704c-448c-8b18-7c1965e306ae.hpk8gg2m2v.jpeg",
+      "AssetFile": "C:\\Users\\Admin\\Desktop\\project pl-3\\cinema-backend\\wwwroot\\images\\43091a22-704c-448c-8b18-7c1965e306ae.jpeg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "5526"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"K/W/uxt3TBb6egd9uw3dGVNkbBvm/Uuu7T7bVjruUTs=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 05 Dec 2025 01:20:29 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "hpk8gg2m2v"
+        },
+        {
+          "Name": "label",
+          "Value": "images/43091a22-704c-448c-8b18-7c1965e306ae.jpeg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-K/W/uxt3TBb6egd9uw3dGVNkbBvm/Uuu7T7bVjruUTs="
+        }
+      ]
+    },
+    {
+      "Route": "images/43091a22-704c-448c-8b18-7c1965e306ae.jpeg",
+      "AssetFile": "C:\\Users\\Admin\\Desktop\\project pl-3\\cinema-backend\\wwwroot\\images\\43091a22-704c-448c-8b18-7c1965e306ae.jpeg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "5526"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"K/W/uxt3TBb6egd9uw3dGVNkbBvm/Uuu7T7bVjruUTs=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 05 Dec 2025 01:20:29 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-K/W/uxt3TBb6egd9uw3dGVNkbBvm/Uuu7T7bVjruUTs="
+        }
+      ]
+    },
+    {
+      "Route": "images/4da9b5cc-6f6a-4182-a3f3-0887cce05b0f.gbna9il124.jpg",
+      "AssetFile": "C:\\Users\\Admin\\Desktop\\project pl-3\\cinema-backend\\wwwroot\\images\\4da9b5cc-6f6a-4182-a3f3-0887cce05b0f.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "131351"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"dKrla4fT8giTd0r6wfNzppNg0ZDVgheITD/DgU9GGkQ=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 09 Dec 2025 02:11:56 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "gbna9il124"
+        },
+        {
+          "Name": "label",
+          "Value": "images/4da9b5cc-6f6a-4182-a3f3-0887cce05b0f.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-dKrla4fT8giTd0r6wfNzppNg0ZDVgheITD/DgU9GGkQ="
+        }
+      ]
+    },
+    {
+      "Route": "images/4da9b5cc-6f6a-4182-a3f3-0887cce05b0f.jpg",
+      "AssetFile": "C:\\Users\\Admin\\Desktop\\project pl-3\\cinema-backend\\wwwroot\\images\\4da9b5cc-6f6a-4182-a3f3-0887cce05b0f.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "131351"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"dKrla4fT8giTd0r6wfNzppNg0ZDVgheITD/DgU9GGkQ=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 09 Dec 2025 02:11:56 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-dKrla4fT8giTd0r6wfNzppNg0ZDVgheITD/DgU9GGkQ="
+        }
+      ]
+    },
+    {
+      "Route": "images/54fe28ba-43ba-4cb4-9c6c-36f16bae150a.PNG",
+      "AssetFile": "C:\\Users\\Admin\\Desktop\\project pl-3\\cinema-backend\\wwwroot\\images\\54fe28ba-43ba-4cb4-9c6c-36f16bae150a.PNG",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "953809"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"GmMW/l4lFaLuV8TjXAzpcx3wFiTSpHii0ADlgXmXMKU=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 04 Dec 2025 11:44:32 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-GmMW/l4lFaLuV8TjXAzpcx3wFiTSpHii0ADlgXmXMKU="
+        }
+      ]
+    },
+    {
+      "Route": "images/54fe28ba-43ba-4cb4-9c6c-36f16bae150a.qrkbv4hhml.PNG",
+      "AssetFile": "C:\\Users\\Admin\\Desktop\\project pl-3\\cinema-backend\\wwwroot\\images\\54fe28ba-43ba-4cb4-9c6c-36f16bae150a.PNG",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "953809"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"GmMW/l4lFaLuV8TjXAzpcx3wFiTSpHii0ADlgXmXMKU=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 04 Dec 2025 11:44:32 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "qrkbv4hhml"
+        },
+        {
+          "Name": "label",
+          "Value": "images/54fe28ba-43ba-4cb4-9c6c-36f16bae150a.PNG"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-GmMW/l4lFaLuV8TjXAzpcx3wFiTSpHii0ADlgXmXMKU="
+        }
+      ]
+    },
+    {
+      "Route": "images/5834857c-86ef-42cd-b535-fb4ca238e1b3.73jr8rwgsq.jpg",
+      "AssetFile": "C:\\Users\\Admin\\Desktop\\project pl-3\\cinema-backend\\wwwroot\\images\\5834857c-86ef-42cd-b535-fb4ca238e1b3.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "17960"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"nRJGp+syLfz+62T8xTkb94YBlGZjWEtVL9/fsDAC+LE=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 09 Dec 2025 02:02:05 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "73jr8rwgsq"
+        },
+        {
+          "Name": "label",
+          "Value": "images/5834857c-86ef-42cd-b535-fb4ca238e1b3.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-nRJGp+syLfz+62T8xTkb94YBlGZjWEtVL9/fsDAC+LE="
+        }
+      ]
+    },
+    {
+      "Route": "images/5834857c-86ef-42cd-b535-fb4ca238e1b3.jpg",
+      "AssetFile": "C:\\Users\\Admin\\Desktop\\project pl-3\\cinema-backend\\wwwroot\\images\\5834857c-86ef-42cd-b535-fb4ca238e1b3.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "17960"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"nRJGp+syLfz+62T8xTkb94YBlGZjWEtVL9/fsDAC+LE=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 09 Dec 2025 02:02:05 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-nRJGp+syLfz+62T8xTkb94YBlGZjWEtVL9/fsDAC+LE="
+        }
+      ]
+    },
+    {
+      "Route": "images/656a3517-9c0b-4433-91da-a3eb1747d592.jpg",
+      "AssetFile": "C:\\Users\\Admin\\Desktop\\project pl-3\\cinema-backend\\wwwroot\\images\\656a3517-9c0b-4433-91da-a3eb1747d592.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "108111"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"mjGJ/joD91kWM49OAVkiqIKLmEPOUGY4pCAT6wSJnLU=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 09 Dec 2025 02:09:42 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-mjGJ/joD91kWM49OAVkiqIKLmEPOUGY4pCAT6wSJnLU="
+        }
+      ]
+    },
+    {
+      "Route": "images/656a3517-9c0b-4433-91da-a3eb1747d592.q43b95zlfn.jpg",
+      "AssetFile": "C:\\Users\\Admin\\Desktop\\project pl-3\\cinema-backend\\wwwroot\\images\\656a3517-9c0b-4433-91da-a3eb1747d592.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "108111"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"mjGJ/joD91kWM49OAVkiqIKLmEPOUGY4pCAT6wSJnLU=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 09 Dec 2025 02:09:42 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "q43b95zlfn"
+        },
+        {
+          "Name": "label",
+          "Value": "images/656a3517-9c0b-4433-91da-a3eb1747d592.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-mjGJ/joD91kWM49OAVkiqIKLmEPOUGY4pCAT6wSJnLU="
+        }
+      ]
+    },
+    {
+      "Route": "images/7b74a7a9-ab4f-4e76-998c-9cc553694caa.hpk8gg2m2v.jpeg",
+      "AssetFile": "C:\\Users\\Admin\\Desktop\\project pl-3\\cinema-backend\\wwwroot\\images\\7b74a7a9-ab4f-4e76-998c-9cc553694caa.jpeg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "5526"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"K/W/uxt3TBb6egd9uw3dGVNkbBvm/Uuu7T7bVjruUTs=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 05 Dec 2025 01:20:14 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "hpk8gg2m2v"
+        },
+        {
+          "Name": "label",
+          "Value": "images/7b74a7a9-ab4f-4e76-998c-9cc553694caa.jpeg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-K/W/uxt3TBb6egd9uw3dGVNkbBvm/Uuu7T7bVjruUTs="
+        }
+      ]
+    },
+    {
+      "Route": "images/7b74a7a9-ab4f-4e76-998c-9cc553694caa.jpeg",
+      "AssetFile": "C:\\Users\\Admin\\Desktop\\project pl-3\\cinema-backend\\wwwroot\\images\\7b74a7a9-ab4f-4e76-998c-9cc553694caa.jpeg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "5526"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"K/W/uxt3TBb6egd9uw3dGVNkbBvm/Uuu7T7bVjruUTs=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 05 Dec 2025 01:20:14 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-K/W/uxt3TBb6egd9uw3dGVNkbBvm/Uuu7T7bVjruUTs="
+        }
+      ]
+    },
+    {
+      "Route": "images/7e3b9262-1fac-4fa0-bce5-cc4a87725dfd.6k7prb78l9.jpg",
+      "AssetFile": "C:\\Users\\Admin\\Desktop\\project pl-3\\cinema-backend\\wwwroot\\images\\7e3b9262-1fac-4fa0-bce5-cc4a87725dfd.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "34414"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"epZQrB46o0Tu/ebxX79xjEUwWQyXsRVuuOtU4x66Fs8=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 04 Dec 2025 21:13:01 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "6k7prb78l9"
+        },
+        {
+          "Name": "label",
+          "Value": "images/7e3b9262-1fac-4fa0-bce5-cc4a87725dfd.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-epZQrB46o0Tu/ebxX79xjEUwWQyXsRVuuOtU4x66Fs8="
+        }
+      ]
+    },
+    {
+      "Route": "images/7e3b9262-1fac-4fa0-bce5-cc4a87725dfd.jpg",
+      "AssetFile": "C:\\Users\\Admin\\Desktop\\project pl-3\\cinema-backend\\wwwroot\\images\\7e3b9262-1fac-4fa0-bce5-cc4a87725dfd.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "34414"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"epZQrB46o0Tu/ebxX79xjEUwWQyXsRVuuOtU4x66Fs8=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 04 Dec 2025 21:13:01 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-epZQrB46o0Tu/ebxX79xjEUwWQyXsRVuuOtU4x66Fs8="
+        }
+      ]
+    },
+    {
+      "Route": "images/8c27f8f5-649a-42b5-8c1b-4744ff4260ba.jpg",
+      "AssetFile": "C:\\Users\\Admin\\Desktop\\project pl-3\\cinema-backend\\wwwroot\\images\\8c27f8f5-649a-42b5-8c1b-4744ff4260ba.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "92562"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"v9t37p6R9FxjteEoh4VcgFvDg+uurUgSploLfy20+64=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 04 Dec 2025 21:15:15 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-v9t37p6R9FxjteEoh4VcgFvDg+uurUgSploLfy20+64="
+        }
+      ]
+    },
+    {
+      "Route": "images/8c27f8f5-649a-42b5-8c1b-4744ff4260ba.ny271kmwdl.jpg",
+      "AssetFile": "C:\\Users\\Admin\\Desktop\\project pl-3\\cinema-backend\\wwwroot\\images\\8c27f8f5-649a-42b5-8c1b-4744ff4260ba.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "92562"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"v9t37p6R9FxjteEoh4VcgFvDg+uurUgSploLfy20+64=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 04 Dec 2025 21:15:15 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "ny271kmwdl"
+        },
+        {
+          "Name": "label",
+          "Value": "images/8c27f8f5-649a-42b5-8c1b-4744ff4260ba.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-v9t37p6R9FxjteEoh4VcgFvDg+uurUgSploLfy20+64="
+        }
+      ]
+    },
+    {
+      "Route": "images/8df7f3fe-47f1-4707-9506-6173bb1e0fec.png",
+      "AssetFile": "C:\\Users\\Admin\\Desktop\\project pl-3\\cinema-backend\\wwwroot\\images\\8df7f3fe-47f1-4707-9506-6173bb1e0fec.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "668177"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"dRqW4f83OR17nrvnB7Z+3xVGTIVEwAIL/7TS01nt3gs=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 09 Dec 2025 01:03:59 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-dRqW4f83OR17nrvnB7Z+3xVGTIVEwAIL/7TS01nt3gs="
+        }
+      ]
+    },
+    {
+      "Route": "images/8df7f3fe-47f1-4707-9506-6173bb1e0fec.tqvzv4cvtv.png",
+      "AssetFile": "C:\\Users\\Admin\\Desktop\\project pl-3\\cinema-backend\\wwwroot\\images\\8df7f3fe-47f1-4707-9506-6173bb1e0fec.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "668177"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"dRqW4f83OR17nrvnB7Z+3xVGTIVEwAIL/7TS01nt3gs=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 09 Dec 2025 01:03:59 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "tqvzv4cvtv"
+        },
+        {
+          "Name": "label",
+          "Value": "images/8df7f3fe-47f1-4707-9506-6173bb1e0fec.png"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-dRqW4f83OR17nrvnB7Z+3xVGTIVEwAIL/7TS01nt3gs="
+        }
+      ]
+    },
+    {
+      "Route": "images/a2148ef7-5961-454c-8d95-bff744a66371.jpg",
+      "AssetFile": "C:\\Users\\Admin\\Desktop\\project pl-3\\cinema-backend\\wwwroot\\images\\a2148ef7-5961-454c-8d95-bff744a66371.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "82683"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"VO0lpkR+UcxmeGvUAh3WPl4L3BK/MKlflczNjaxPhuo=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 09 Dec 2025 02:28:36 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-VO0lpkR+UcxmeGvUAh3WPl4L3BK/MKlflczNjaxPhuo="
+        }
+      ]
+    },
+    {
+      "Route": "images/a2148ef7-5961-454c-8d95-bff744a66371.si3eg1f5ek.jpg",
+      "AssetFile": "C:\\Users\\Admin\\Desktop\\project pl-3\\cinema-backend\\wwwroot\\images\\a2148ef7-5961-454c-8d95-bff744a66371.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "82683"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"VO0lpkR+UcxmeGvUAh3WPl4L3BK/MKlflczNjaxPhuo=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 09 Dec 2025 02:28:36 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "si3eg1f5ek"
+        },
+        {
+          "Name": "label",
+          "Value": "images/a2148ef7-5961-454c-8d95-bff744a66371.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-VO0lpkR+UcxmeGvUAh3WPl4L3BK/MKlflczNjaxPhuo="
+        }
+      ]
+    },
+    {
+      "Route": "images/acc17e1d-d028-4eca-bf16-4b7ebbe38dcd.hpk8gg2m2v.jpeg",
+      "AssetFile": "C:\\Users\\Admin\\Desktop\\project pl-3\\cinema-backend\\wwwroot\\images\\acc17e1d-d028-4eca-bf16-4b7ebbe38dcd.jpeg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "5526"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"K/W/uxt3TBb6egd9uw3dGVNkbBvm/Uuu7T7bVjruUTs=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 05 Dec 2025 01:23:07 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "hpk8gg2m2v"
+        },
+        {
+          "Name": "label",
+          "Value": "images/acc17e1d-d028-4eca-bf16-4b7ebbe38dcd.jpeg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-K/W/uxt3TBb6egd9uw3dGVNkbBvm/Uuu7T7bVjruUTs="
+        }
+      ]
+    },
+    {
+      "Route": "images/acc17e1d-d028-4eca-bf16-4b7ebbe38dcd.jpeg",
+      "AssetFile": "C:\\Users\\Admin\\Desktop\\project pl-3\\cinema-backend\\wwwroot\\images\\acc17e1d-d028-4eca-bf16-4b7ebbe38dcd.jpeg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "5526"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"K/W/uxt3TBb6egd9uw3dGVNkbBvm/Uuu7T7bVjruUTs=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 05 Dec 2025 01:23:07 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-K/W/uxt3TBb6egd9uw3dGVNkbBvm/Uuu7T7bVjruUTs="
+        }
+      ]
+    },
+    {
+      "Route": "images/ae0f9d76-9f44-43b9-b3fc-25334fbc3106.hpk8gg2m2v.jpeg",
+      "AssetFile": "C:\\Users\\Admin\\Desktop\\project pl-3\\cinema-backend\\wwwroot\\images\\ae0f9d76-9f44-43b9-b3fc-25334fbc3106.jpeg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "5526"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"K/W/uxt3TBb6egd9uw3dGVNkbBvm/Uuu7T7bVjruUTs=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 04 Dec 2025 21:15:28 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "hpk8gg2m2v"
+        },
+        {
+          "Name": "label",
+          "Value": "images/ae0f9d76-9f44-43b9-b3fc-25334fbc3106.jpeg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-K/W/uxt3TBb6egd9uw3dGVNkbBvm/Uuu7T7bVjruUTs="
+        }
+      ]
+    },
+    {
+      "Route": "images/ae0f9d76-9f44-43b9-b3fc-25334fbc3106.jpeg",
+      "AssetFile": "C:\\Users\\Admin\\Desktop\\project pl-3\\cinema-backend\\wwwroot\\images\\ae0f9d76-9f44-43b9-b3fc-25334fbc3106.jpeg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "5526"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"K/W/uxt3TBb6egd9uw3dGVNkbBvm/Uuu7T7bVjruUTs=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 04 Dec 2025 21:15:28 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-K/W/uxt3TBb6egd9uw3dGVNkbBvm/Uuu7T7bVjruUTs="
+        }
+      ]
+    },
+    {
+      "Route": "images/d34097ed-97d7-4eb4-a02a-40efc82b53d7.jpg",
+      "AssetFile": "C:\\Users\\Admin\\Desktop\\project pl-3\\cinema-backend\\wwwroot\\images\\d34097ed-97d7-4eb4-a02a-40efc82b53d7.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "37934"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"lga9oyr5Prs67XakwPLI7XMXBUI6Ns7RLFu+knEtL/4=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 04 Dec 2025 11:55:24 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-lga9oyr5Prs67XakwPLI7XMXBUI6Ns7RLFu+knEtL/4="
+        }
+      ]
+    },
+    {
+      "Route": "images/d34097ed-97d7-4eb4-a02a-40efc82b53d7.qz5lhxq66y.jpg",
+      "AssetFile": "C:\\Users\\Admin\\Desktop\\project pl-3\\cinema-backend\\wwwroot\\images\\d34097ed-97d7-4eb4-a02a-40efc82b53d7.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "37934"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"lga9oyr5Prs67XakwPLI7XMXBUI6Ns7RLFu+knEtL/4=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 04 Dec 2025 11:55:24 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "qz5lhxq66y"
+        },
+        {
+          "Name": "label",
+          "Value": "images/d34097ed-97d7-4eb4-a02a-40efc82b53d7.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-lga9oyr5Prs67XakwPLI7XMXBUI6Ns7RLFu+knEtL/4="
+        }
+      ]
+    },
+    {
+      "Route": "images/e427c07a-7eb9-47af-af81-6164596f51dc.png",
+      "AssetFile": "C:\\Users\\Admin\\Desktop\\project pl-3\\cinema-backend\\wwwroot\\images\\e427c07a-7eb9-47af-af81-6164596f51dc.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "668177"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"dRqW4f83OR17nrvnB7Z+3xVGTIVEwAIL/7TS01nt3gs=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 09 Dec 2025 01:04:41 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-dRqW4f83OR17nrvnB7Z+3xVGTIVEwAIL/7TS01nt3gs="
+        }
+      ]
+    },
+    {
+      "Route": "images/e427c07a-7eb9-47af-af81-6164596f51dc.tqvzv4cvtv.png",
+      "AssetFile": "C:\\Users\\Admin\\Desktop\\project pl-3\\cinema-backend\\wwwroot\\images\\e427c07a-7eb9-47af-af81-6164596f51dc.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "668177"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"dRqW4f83OR17nrvnB7Z+3xVGTIVEwAIL/7TS01nt3gs=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 09 Dec 2025 01:04:41 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "tqvzv4cvtv"
+        },
+        {
+          "Name": "label",
+          "Value": "images/e427c07a-7eb9-47af-af81-6164596f51dc.png"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-dRqW4f83OR17nrvnB7Z+3xVGTIVEwAIL/7TS01nt3gs="
+        }
+      ]
+    },
+    {
+      "Route": "images/event1.jpg",
+      "AssetFile": "C:\\Users\\Admin\\Desktop\\project pl-3\\cinema-backend\\wwwroot\\images\\event1.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "887059"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"yciZQ+Y1p1ootqQmHNMVueiCDdyu/PZDkpP7lpmbMkw=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 15 Apr 2025 18:05:23 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-yciZQ+Y1p1ootqQmHNMVueiCDdyu/PZDkpP7lpmbMkw="
+        }
+      ]
+    },
+    {
+      "Route": "images/event1.p0vf2rj7a8.jpg",
+      "AssetFile": "C:\\Users\\Admin\\Desktop\\project pl-3\\cinema-backend\\wwwroot\\images\\event1.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "887059"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"yciZQ+Y1p1ootqQmHNMVueiCDdyu/PZDkpP7lpmbMkw=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 15 Apr 2025 18:05:23 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "p0vf2rj7a8"
+        },
+        {
+          "Name": "label",
+          "Value": "images/event1.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-yciZQ+Y1p1ootqQmHNMVueiCDdyu/PZDkpP7lpmbMkw="
+        }
+      ]
+    },
+    {
+      "Route": "images/event2.211rh47q1k.jpg",
+      "AssetFile": "C:\\Users\\Admin\\Desktop\\project pl-3\\cinema-backend\\wwwroot\\images\\event2.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "58465"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"9m4e+erlirh/TrEAP2kiegU9Mm7qGSPwu4edpisRWiA=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 15 Apr 2025 18:05:43 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "211rh47q1k"
+        },
+        {
+          "Name": "label",
+          "Value": "images/event2.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-9m4e+erlirh/TrEAP2kiegU9Mm7qGSPwu4edpisRWiA="
+        }
+      ]
+    },
+    {
+      "Route": "images/event2.jpg",
+      "AssetFile": "C:\\Users\\Admin\\Desktop\\project pl-3\\cinema-backend\\wwwroot\\images\\event2.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "58465"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"9m4e+erlirh/TrEAP2kiegU9Mm7qGSPwu4edpisRWiA=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 15 Apr 2025 18:05:43 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-9m4e+erlirh/TrEAP2kiegU9Mm7qGSPwu4edpisRWiA="
+        }
+      ]
+    },
+    {
+      "Route": "images/fa7bea5a-3a78-447d-b5f3-014a258675bc.0zvke8f7q7.png",
+      "AssetFile": "C:\\Users\\Admin\\Desktop\\project pl-3\\cinema-backend\\wwwroot\\images\\fa7bea5a-3a78-447d-b5f3-014a258675bc.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "371673"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"JIMZEvpEy1afW9LPyZZRRYPI+dB5cenzyVCSjahNA+M=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 11 Dec 2025 21:10:59 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "0zvke8f7q7"
+        },
+        {
+          "Name": "label",
+          "Value": "images/fa7bea5a-3a78-447d-b5f3-014a258675bc.png"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-JIMZEvpEy1afW9LPyZZRRYPI+dB5cenzyVCSjahNA+M="
+        }
+      ]
+    },
+    {
+      "Route": "images/fa7bea5a-3a78-447d-b5f3-014a258675bc.png",
+      "AssetFile": "C:\\Users\\Admin\\Desktop\\project pl-3\\cinema-backend\\wwwroot\\images\\fa7bea5a-3a78-447d-b5f3-014a258675bc.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "371673"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"JIMZEvpEy1afW9LPyZZRRYPI+dB5cenzyVCSjahNA+M=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 11 Dec 2025 21:10:59 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-JIMZEvpEy1afW9LPyZZRRYPI+dB5cenzyVCSjahNA+M="
+        }
+      ]
+    }
+  ]
+}
