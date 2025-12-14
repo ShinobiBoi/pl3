@@ -1,0 +1,168 @@
+
+
+<nav class="navbar navbar-expand-lg header-dark">
+  <div class="container-fluid">
+    
+    <a class="navbar-brand logo-text" href="#">
+      <img src="assets/img1.png" alt="MovieMaker" class="logo-img">
+Movie<span class="text-info">Maker</span>     </a>
+
+    <div class="d-flex ms-auto">
+      
+       @if (!authService.currentUser()) {
+ <button 
+        type="button" 
+        class="btn btn-outline-light me-2 custom-btn-login" 
+        routerLink="/login" 
+        aria-label="Login">
+        Login
+      </button>
+   <button 
+        type="button" 
+        class="btn  custom-btn-register" 
+        routerLink="/register" 
+        aria-label="Register">
+        Register
+      </button>      }
+      @else {
+        <span class="text-white me-3">Hello {{ authService.currentUser()?.username }}</span>
+        <button class="btn btn-sm btn-outline-danger" (click)="onLogout()">Logout</button>
+      }
+
+      
+    </div>
+  </div>
+</nav>
+
+
+ @if (movies().length > 0){
+<div class="hero-carousel ">
+
+  <div id="heroSlider" class="carousel slide carousel-fade" data-bs-ride="carousel" data-bs-interval="2900">
+
+
+    <div class="carousel-inner">
+      @for (movie of topMovies(); let i = $index; track movie.id) {
+
+        <div class="carousel-item" [class.active]="i === 0">
+
+          <div 
+            class="hero-slide" 
+            [style.background-image]="'url(' + apiBase + movie.imageUrl + ')'">
+          </div>
+
+          <div class="hero-content container">
+            <span class="badge bg-black px-3 py-2 mb-3">
+              🎬 Now Showing
+            </span>
+
+            <h1 class="hero-title">{{ movie.title }}</h1>
+
+            <p class="hero-desc">
+              {{ movie.description | slice:0:200 }}...
+            </p>
+
+            <div class="mt-4 d-flex gap-3">
+              <a    (click)="handleBookingAction(movie.id)" class="btn book-btn btn-lg px-4">
+                Book Now
+              </a>
+
+            </div>
+          </div>
+
+        </div>
+      }
+    </div>
+  </div>
+</div>
+ }@else{<div class="alert alert-warning text-center mt-5">
+      عذراً، لم يتم العثور على أي أفلام.
+    </div>}
+
+
+<div class="dark-page ">
+
+<div class="container ">
+
+  <div class="row justify-content-center mb-4 pt-4">
+    <div class="col-md-8">
+      <div class="input-group">
+        <input 
+          type="text" 
+          class="form-control search-input" 
+          [(ngModel)]="searchTerm" 
+          placeholder="ابحث بالعنوان أو الوصف..." 
+          (keyup.enter)="onSearch()"
+        />
+        <button class="btn btn-dark" (click)="onSearch()">
+          <i class="bi bi-search"></i> بحث
+        </button>
+        <button class="btn btn-outline-secondary" (click)="searchTerm=''; getMovies();">
+          عرض الكل
+        </button>
+      </div>
+    </div>
+  </div>
+
+  @if (loading()) {
+    <div class="text-center p-5 text-white">
+      <div class="spinner-border text-primary" role="status"></div>
+      <p class="mt-2">جاري تحميل بيانات الأفلام...</p>
+    </div>
+  } @else if (movies().length > 0) {
+    <div class="row">
+  @for (movie of movies(); track movie.id) {
+    <div class="col-12 col-sm-6 col-md-4 col-lg-3 mb-5">
+      
+   <div class="new-movie-card h-100">
+    
+    <div class="poster-container position-relative">
+        
+        <img 
+            [src]="apiBase + movie.imageUrl || 'https://via.placeholder.com/400x600?text=Movie+Poster'" 
+            class="card-img-top poster-image" 
+            alt="{{ movie.title }}"
+        >
+        
+        <div class="hover-overlay">
+            <div class="overlay-content">
+                <h4 class="overlay-title">{{ movie.title }}</h4>
+                <p class="overlay-desc">{{ movie.description | slice:0:150 }}...</p>
+                <div class="overlay-details">
+                    <p>
+                        <i class="bi bi-calendar"></i> {{ movie.showDate | date:'short' }}
+                    </p>
+                    <p>
+                        <i class="bi bi-geo-alt"></i> Hall: {{ movie.hallNumber }}
+                    </p>
+                    <p>
+                        <i class="bi bi-currency-dollar"></i> Price: {{ movie.basePrice }} EGP
+                    </p>
+                </div>
+          
+            </div>
+        </div>
+        
+    </div>
+    <div class="card-footer-content">
+        <h5 class="movie-title-footer text-truncate mb-2">{{ movie.title }}</h5>
+        <a (click)="handleBookingAction(movie.id)"  class="btn btn-dark book-btn w-100">
+            Book Now
+        </a>
+    </div>
+
+</div>
+      
+    </div>
+  }
+</div>
+  } @else {
+    <div class="alert alert-warning text-center mt-5">
+      عذراً، لم يتم العثور على أي أفلام.
+    </div>
+  }
+</div>
+</div>
+
+
+
