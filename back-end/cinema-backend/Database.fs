@@ -7,27 +7,22 @@ open Domain
 
 module Database =
     
-    // جملة الاتصال - تأكد أنها مطابقة لجهازك
+    // connection with database
     let connectionString = "Server=DESKTOP-QI6H2EA;Database=CinemaDB;Trusted_Connection=true;TrustServerCertificate=true;"
 
     // --- User Operations ---
-    
-    // التعديل: الدالة ترجع bool (نجاح/فشل) بدلاً من أن تنهار عند الخطأ
-    // هذا يسمح للفرونت إند بعرض رسالة "اسم المستخدم موجود مسبقاً" دون توقف السيرفر
     let registerUser (req: RegisterRequest) : bool =
         try
             using (new SqlConnection(connectionString)) (fun conn ->
                 let sql = "INSERT INTO Users (Username, Password, Email, Role) VALUES (@Username, @Password, @Email, 'Customer')"
                 conn.Execute(sql, req) |> ignore
             )
-            true // نجح التسجيل
+            true 
         with
-        | _ -> 
-            false // فشل (غالباً الاسم مكرر)
+        | _ -> false
 
     let loginUser (req: LoginRequest) =
         using (new SqlConnection(connectionString)) (fun conn ->
-            // تحديد الأعمدة المطلوبة فقط لتجنب تعارض البيانات مع الـ Model
             let sql = "SELECT Id, Username, Email, Role FROM Users WHERE Username = @Username AND Password = @Password"
             let user = conn.QuerySingleOrDefault<User>(sql, req)
             if isNull (box user) then None else Some user
@@ -83,9 +78,10 @@ module Database =
             conn.Execute(sql, ticket) |> ignore
         )
 
-    // دالة لجلب المقاعد المحجوزة فقط (للفرونت إند)
+  
     let getBookedSeats (movieId: int) =
         using (new SqlConnection(connectionString)) (fun conn ->
-            let sql = "SELECT SeatRow, SeatNumber FROM Tickets WHERE MovieId = @MId"
-            conn.Query(sql, {| MId = movieId |}) |> Seq.toList
+            let sql = "SELECT * FROM Tickets WHERE MovieId = @MId"
+            // Type ticket
+            conn.Query<Ticket>(sql, {| MId = movieId |}) |> Seq.toList
         )

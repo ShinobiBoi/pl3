@@ -11,13 +11,13 @@ type AuthController () =
 
     [<HttpPost("register")>]
     member this.Register(req: RegisterRequest) : IActionResult = 
-        // نستقبل نتيجة التسجيل (true = نجاح، false = فشل/مكرر)
+        // to get result of registration ( true/ false)
         let isSuccess : bool = Database.registerUser req
       
         if isSuccess then
            this.Ok({| message = "User registered successfully" |}) :> IActionResult
         else
-           // 409 Conflict: تعني أن المستخدم موجود بالفعل
+           // 409 Conflict: user already eexist 
            this.Conflict({| message = "Username already exists." |}) :> IActionResult   
     
     [<HttpPost("login")>]
