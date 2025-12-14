@@ -36,8 +36,8 @@ module Program =
             app.UseSwagger() |> ignore
             app.UseSwaggerUI() |> ignore
 
-        // =============== Static Files (مهم جداً للصور) ===============
-        // ده اللي بيخلي wwwroot يتعرض
+        // =============== Static Files  ===============
+        //  wwwroot 
         app.UseStaticFiles() |> ignore
 
         app.UseHttpsRedirection() |> ignore

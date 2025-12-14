@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "IZemffD+BqA=",
+  "dgSpecHash": "kgHNQBzHE2k=",
   "success": true,
-  "projectFilePath": "C:\\Users\\Admin\\Desktop\\project pl-3\\cinema-backend\\CinemaSeatReservationSystem1.fsproj",
+  "projectFilePath": "C:\\Users\\Admin\\Source\\Repos\\pl3\\back-end\\cinema-backend\\CinemaSeatReservationSystem1.fsproj",
   "expectedPackageFiles": [
     "C:\\Users\\Admin\\.nuget\\packages\\azure.core\\1.38.0\\azure.core.1.38.0.nupkg.sha512",
     "C:\\Users\\Admin\\.nuget\\packages\\azure.identity\\1.11.4\\azure.identity.1.11.4.nupkg.sha512",

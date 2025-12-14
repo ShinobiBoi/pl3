@@ -1,18 +1,5 @@
 ﻿
 
-//[<ApiController>]
-//[<Route("api/admin")>]
-//type AdminController () =
-//    inherit ControllerBase()
-
-//    [<HttpPost("add-movie")>]
-//    member this.AddMovie(movie: Movie) : IActionResult =
-//        try
-//            Database.addMovie movie
-//            this.Ok("Movie added successfully") :> IActionResult
-//        with
-//        | ex -> this.BadRequest("Failed to add movie: " + ex.Message) :> IActionResult
-
 namespace CinemaSeatReservationSystem1.Controllers
 
 open Microsoft.AspNetCore.Mvc
@@ -25,7 +12,7 @@ open System.IO
 [<Route("api/admin")>]
 type AdminController () =
     inherit ControllerBase()
-    //دا عشان الادمن يعرف يضيف صوره فالجهاز عنده ف كان لازم اعدل فيها
+    //TO Adddd movie by admin 
     [<HttpPost("add-movie")>]
     member this.AddMovie([<FromForm>] movie: MovieUpload) : IActionResult =
         try

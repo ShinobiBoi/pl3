@@ -23,7 +23,7 @@ module Domain =
         BasePrice: decimal
     }
 
-    //new
+    
 type MovieUpload() =
     member val Title = "" with get, set
     member val Description = "" with get, set
